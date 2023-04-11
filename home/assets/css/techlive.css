@@ -53,6 +53,20 @@
     grid-column: 9 / span 2;
     grid-row: 3 /span 3;
    }
+
+
+   
+   /* COMEÇO IMAGEM CARRO 7  */
+
+   .item07 {
+    grid-column: 9 / span 2;
+    grid-row: 1 /span 2;
+   }
+
+    /* FNAL IMAGEM CARRO 7 */
+
+
+
    img {
     transition: 0.5s;
    }
