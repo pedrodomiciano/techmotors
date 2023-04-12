@@ -65,6 +65,78 @@
 
     /* FNAL IMAGEM CARRO 7  */
 
+    /* imagens insta */
+
+    .item08 {
+        
+        z-index: 5;
+        width: 35px;
+        position: absolute;
+        left: 545px;
+        top: 2075px;
+       }
+
+       .item09 {
+        
+        z-index: 5;
+        width: 35px;
+        position: absolute;
+        left: 545px;
+        top: 2315px;
+       }
+
+       .item10 {
+        
+        z-index: 5;
+        width: 35px;
+        position: absolute;
+        left: 790px;
+        top: 2315px;
+       }
+
+       .item11 {
+        
+        z-index: 5;
+        width: 35px;
+        position: absolute;
+        left: 1165px;
+        top: 2315px;
+       }
+
+       .item12 {
+        
+        z-index: 5;
+        width: 35px;
+        position: absolute;
+        left: 1165px;
+        top: 2080px;
+       }
+
+       /* final imagens insta*/
+
+       /* imagens youtube*/
+
+       .item13 {
+        
+        z-index: 5;
+        width: 35px;
+        position: absolute;
+        left: 545px;
+        top: 2640px;
+       }
+       
+       .item14 {
+        
+        z-index: 5;
+        width: 35px;
+        position: absolute;
+        left: 175px;
+        top: 2640px;
+       }
+
+/* final imagens youtube*/
+
+
 
 
    img {
